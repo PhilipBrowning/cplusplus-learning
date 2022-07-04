@@ -1,0 +1,5 @@
+foo
+bar
+baz 
+bear 
+This is a line from the test file.
