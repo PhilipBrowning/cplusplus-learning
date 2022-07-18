@@ -23,7 +23,7 @@ int main()
 	{"New York", 8000000, 68.0, 95.7}};
 
 	std::cout << "Enter name of city: ";
-	std::cin << cityName;
+	std::cin >> cityName;
 
 	for (const auto& city : cities)
 	{
